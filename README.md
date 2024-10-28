@@ -49,7 +49,7 @@ Here are the technologies and tools I'm using during the internship:
 
 1. **Clone the repository**:
    ```bash
-   git clone-- https://github.com/faizansari45/CODSOFT.git
+   git clone: https://github.com/faizansari45/CODSOFT.git
    ```
 
 2. **Navigate to the project folder**:
@@ -70,4 +70,4 @@ Feel free to explore my work, and don't hesitate to provide feedback!
 
 ## LICENSE
 
-This repository is licensed under MIT
+This repository is licensed under [MIT LICENSE]
